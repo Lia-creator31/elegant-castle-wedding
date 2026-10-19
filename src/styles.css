@@ -105,4 +105,4 @@
 }
 @utility animate-float { animation: float-y 5s ease-in-out infinite; }
 @utility animate-kenburns { animation: kenburns 14s ease-in-out infinite alternate; }
-@utility animate-petal { animation: petal linear infinite; }
+@utility animate-petal { animation: petal linear infinite both; }
