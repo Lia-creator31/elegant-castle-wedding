@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Elegant Castle Wedding
+
+buatkan undangan pernikahan dengan brief sesuai dengan lampiran markdown 149 baris yang saya upload. referensi undangan seperti pada video yang saya upload. untuk aset ase foto juga saya lampirkan sesuai dengan Grooms , Brides, Grooms & Bride, buttom background, Mini Castle, Castle, Gate. samakan setiap gerakan animasinya. berikan improvisasi jika perlu ada tambahan aset lagi tapi jangan terlalu norak dan melenceng dari tema. untuk tema saya ingin base colornya light, namun ornamen menggunakan warna burgundy, navy, dan lylac ungu. berikan saran yang komperhensif, relevan, rasional, efektif, dan efisien. buat se estetik dan fungsional mungkin.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/8a25169a-8cff-47cd-8344-740b577f27fa).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
